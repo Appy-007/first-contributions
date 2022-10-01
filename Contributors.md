@@ -26,7 +26,7 @@
 - [Chad Perry](https://github.com/clewisperry)
 - [Hemant Maurya](https://github.com/hemantmaurya344)
 - Debobani Ghosh
-- Apratim Raha
+- [Apratim Raha](https://github.com/Appy-007)
 - [Anshuman Rout](https://github.com/anshuman0123)
 - [Divya Kaushik](https://github.com/divya1515)
 - [Daniel Stai](https://github.com/DanielStai)
